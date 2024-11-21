@@ -20,3 +20,8 @@
 - git remote show origin
 - git branch -M main
 - git push -u origin main
+
+## Lession 10
+
+- tsc --init
+- Refence https://www.typescriptlang.org/tsconfig/
