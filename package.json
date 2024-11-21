@@ -1,0 +1,8 @@
+{
+  "name": "hdbank-hoc",
+  "version": "1.0.0",
+  "description": "A mini social network for VUHO Community",
+  "main": "src/server.ts",
+  "author": "DUY VU",
+  "license": "MIT"
+}
